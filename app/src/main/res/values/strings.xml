@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jojo1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="print_user_name">Ведите имя</string>
+    <string name="print_user_family">Ведите фамилие</string>
+    <string name="send">Send</string>
+    <string name="set_text">Set Text</string>
+</resources>
